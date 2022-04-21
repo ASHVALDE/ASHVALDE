@@ -19,10 +19,12 @@
   
   ## Indice
   1. Mis proyectos
-     * <a href="https://linktr.ee/Colombian_Virtual_Reality">Colombian Virtual Reality</a>
+     * <a href="https://linktr.ee/colombianvr">Colombian Virtual Reality</a>: Servidor de GTA:SA y fundacion social.
      * XUA
+     * TRPS
+     * Hermes
      * Landmark Face Detector ( Proximamente )
-     * Tapitas RePro Sena o TRPS
+     
 </details>
 
 
