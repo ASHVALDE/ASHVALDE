@@ -20,9 +20,9 @@
   ## Indice
   1. Mis proyectos
      * <a href="https://linktr.ee/colombianvr">Colombian Virtual Reality</a>: Servidor de GTA:SA y fundacion social.
-     * XUA
-     * TRPS
-     * Hermes
+     * XUA : Aplicativo de android para encontrar la mejor ruta de bicicleta usando algoritmos de pathfinding.
+     * TRPS : Alternativa ecologica a los tragamonedas para incentivar a los niños a reciclar.
+     * Hermes : Exploit de whatsapp ilimitado para navegar por internet sin usar datos.
      * Landmark Face Detector ( Proximamente )
      
 </details>
