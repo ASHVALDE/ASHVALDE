@@ -19,7 +19,7 @@
   
   ## Indice
   1. Mis proyectos
-     * Colombian Virtual Reality
+     * <a href="https://linktr.ee/Colombian_Virtual_Reality">Colombian Virtual Reality</a>
      * XUA
      * Landmark Face Detector ( Proximamente )
      * Tapitas RePro Sena o TRPS
