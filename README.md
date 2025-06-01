@@ -9,7 +9,7 @@
 <ul type=”A”>
   <li>Desarrollador.</li>
   <li>Estudiante de ingenieria electrica en la Universidad Nacional de Colombia.</li>
-  <li>Lider de desarrollo en <a href="http://colombianvirtualreality.com">CVR</a></li>
+  <li>Ex-Lider de desarrollo en <a href="http://colombianvirtualreality.com">CVR</a></li>
   <li>Adicto a aprender cosas nuevas.</li>
 </ul>
 
